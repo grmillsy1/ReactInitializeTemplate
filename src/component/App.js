@@ -4,13 +4,9 @@ import '../../public/App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          Website for Georgia Mills
-        </p>
+      <div className='App'>
+      <h1> Simple Web App Template </h1>
+      <h3> Go to App.js to start your website </h3>
       </div>
     );
   }
